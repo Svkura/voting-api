@@ -10,10 +10,10 @@ A simple RESTful API for creating polls, voting on options, and managing poll da
 
 # 📂 Project Structure
 voting-api/
-├── controllers/       # Request handlers (create, vote, update, delete)
-├── models/            # Mongoose schemas
-├── routes/            # Route definitions
-├── server.js          # Entry point
+├── controllers/       - Request handlers (create, vote, update, delete)
+├── models/            - Mongoose schemas
+├── routes/            - Route definitions
+├── server.js          - Entry point
 
 # ⚙ Tech Staks
 - [Node.js](https://nodejs.org/)
